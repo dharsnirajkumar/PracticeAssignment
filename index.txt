@@ -1,0 +1,7 @@
+Java Questions and Answers
+
+1) Is Java Platform Independent? Why?
+Yes. It is platform-independent because Java code is compiled into bytecode by the javac compiler.
+
+2)What are key features of Java?
+Object-Oriented, Platform-Independent, Robust, Multithreaded, Secure, Dynamic
